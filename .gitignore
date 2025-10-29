@@ -1,2 +1,14 @@
-# Ignore local debug settings
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local debug settings
 Properties/launchSettings.json
