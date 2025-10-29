@@ -26,7 +26,6 @@ jobs:
       - name: Copy site files
         run: |
           cp -r release/wwwroot ./wwwroot
-          echo "blazor.bojangrujic2001.github.io" > ./wwwroot/CNAME || true
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
