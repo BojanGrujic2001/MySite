@@ -21,7 +21,7 @@ jobs:
           dotnet-version: '9.0.x'
 
       - name: Publish Blazor WebAssembly
-        run: dotnet publish -c Release -o build
+        run: dotnet publish -c Release -o build /p:StaticWebAssetBasePath=/MySite
 
       - name: Deploy to GitHub Pages branch
         run: |
