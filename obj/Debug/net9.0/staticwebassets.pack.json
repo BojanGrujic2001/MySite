@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/BojanGrujicSite.styles.css"
     },
     {
+      "Id": "/home/bojan/Boki/BojanGrujicSite/wwwroot/404.html",
+      "PackagePath": "staticwebassets/404.html"
+    },
+    {
       "Id": "/home/bojan/Boki/BojanGrujicSite/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
