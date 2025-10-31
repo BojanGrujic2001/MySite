@@ -1,7 +1,5 @@
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/blazor.webassembly.js
-/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.xx3pd3k180.pdb
-/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.fyd8oq4hfe.wasm
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/dotnet.js
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/dotnet.js.map
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/dotnet.native.9ih887ebfz.js
@@ -204,7 +202,6 @@
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/WindowsBase.vy2l5u79y6.wasm
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.Cng.pvstpifg15.wasm.gz
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.0rw6nqo7fz.wasm.gz
-/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.fyd8oq4hfe.wasm.gz
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Globalization.Extensions.vj2hxw2cxd.wasm.gz
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Net.NameResolution.darvipojrr.wasm.gz
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Xml.XDocument.1iommojzp6.wasm.gz
@@ -239,7 +236,6 @@
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.Debug.3b311sbro1.wasm.gz
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Data.jc9hvsoz9b.wasm.gz
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Net.HttpListener.pjiup6uulr.wasm.gz
-/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.xx3pd3k180.pdb.gz
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Security.Claims.kjb7p8c8k7.wasm.gz
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Security.Principal.94wgvdpj1g.wasm.gz
 /home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.IO.Compression.FileSystem.oapcnmb898.wasm.gz
@@ -816,7 +812,6 @@
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/blazor.build.boot-extension.json
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/blazor.boot.json
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/k2ovijkncr-xd83rnx73q.gz
-/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/fid2x6ma56-cw7dcb2xcw.gz
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/s5dlcvz1w2-bqjiyaj88i.gz
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/curjgv6giz-c2jlpeoesf.gz
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/ocuhyozzra-erw9l3u2r3.gz
@@ -863,8 +858,6 @@
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/l56f51v5ru-elewmg7cm0.gz
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/opg6l5h6lh-vnc9dmv67p.gz
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/f94l9tmu23-md9yvkcqlf.gz
-/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/25aub5r0ve-tpzlof5bfw.gz
-/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/yfjjey3ie7-tpzlof5bfw.gz
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/ph30k9bmkp-z6jo10m0rd.gz
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/93dfo3h9xi-65wbz7t8mt.gz
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/6rdu91b6vy-ysqd97eroy.gz
@@ -1065,9 +1058,6 @@
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/xnk2k68k2r-tjcz0u77k5.gz
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/akms3k0duf-tptq2av103.gz
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/4ecpbjnctj-lfu7j35m59.gz
-/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-fyd8oq4hfe.gz
-/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-xx3pd3k180.gz
-/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/a5q8kj35q1-73etbif84d.gz
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/staticwebassets.build.json
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/staticwebassets.development.json
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -1082,3 +1072,15 @@
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/refint/BojanGrujicSite.dll
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/BojanGrujicSite.pdb
 /home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/ref/BojanGrujicSite.dll
+/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/notddw4vtc-cw7dcb2xcw.gz
+/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/scopedcss/Pages/Portfolio.razor.rz.scp.css
+/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/fid2x6ma56-2lbyjr5hvf.gz
+/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/25aub5r0ve-a60imxnaco.gz
+/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/yfjjey3ie7-a60imxnaco.gz
+/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.wg91j307gj.pdb
+/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.t0754qkvxg.wasm
+/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.t0754qkvxg.wasm.gz
+/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.wg91j307gj.pdb.gz
+/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-t0754qkvxg.gz
+/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-wg91j307gj.gz
+/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/a5q8kj35q1-p8plfr70nx.gz
