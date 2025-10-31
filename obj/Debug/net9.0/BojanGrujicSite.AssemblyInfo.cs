@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BojanGrujicSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae93e87f7f741e81d5bb64e699033bc316fdbe38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caac6ae031a4e8b874809e88fb6affbec55465e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BojanGrujicSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BojanGrujicSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Haf0V7mDrS4VOWyHAlH6s3QT47sSZq+N9Tczp4UHrt4=",
+  "Hash": "jZKPEpi9eN3k0lNRU0XTPR1KN3Ze7/l/pc5uvsVoAJs=",
   "Source": "BojanGrujicSite",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "p8plfr70nx",
-      "Integrity": "CZ4TZclepl9zTpI9h/nrlwXL+IG/EmLoiK/tFDU1K/4=",
+      "Fingerprint": "jfc4xocsu1",
+      "Integrity": "EQe65/T3OYf9W5HWHLLyvC3phqzME4URFQn/Ec3UqbM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "wg91j307gj",
-      "Integrity": "MIX3FAmvLfZCWc/lfY5HAWhM9HbWAvc6H6mruoOc8/c=",
+      "Fingerprint": "8ye8h50pi1",
+      "Integrity": "UN1WH+qphXDi81SzFLPP147MJYD0s6K3Z6kq278ID4c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/BojanGrujicSite.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "t0754qkvxg",
-      "Integrity": "zd7WUhmAsxNipL8HSTv04/dQMDf31CHfUBnOBV+gWMA=",
+      "Fingerprint": "5pim165vmo",
+      "Integrity": "126b0WjTNJaP8iMmJB06klSe9qcL6PhwQLf/76XZRR8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/webcil/BojanGrujicSite.wasm"
@@ -4343,12 +4343,12 @@
       "OriginalItemSpec": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.wasm"
     },
     {
-      "Identity": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-t0754qkvxg.gz",
+      "Identity": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-5pim165vmo.gz",
       "SourceId": "BojanGrujicSite",
       "SourceType": "Computed",
       "ContentRoot": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/BojanGrujicSite#[.{fingerprint=t0754qkvxg}]!.wasm.gz",
+      "RelativePath": "_framework/BojanGrujicSite#[.{fingerprint=5pim165vmo}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4357,8 +4357,8 @@
       "RelatedAsset": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5vhme8cm6f",
-      "Integrity": "D84j0qTRiUnVhDcvAob2OFUlLzHHBrRlxxkg0Tom8vk=",
+      "Fingerprint": "zfzotbdnqi",
+      "Integrity": "b6KbRCnbVGVy8gFIFMYFRLe7rv4hd6cVkXqZzhMheNM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.wasm"
@@ -5225,12 +5225,12 @@
       "OriginalItemSpec": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Net.HttpListener.wasm"
     },
     {
-      "Identity": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-wg91j307gj.gz",
+      "Identity": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-8ye8h50pi1.gz",
       "SourceId": "BojanGrujicSite",
       "SourceType": "Computed",
       "ContentRoot": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/BojanGrujicSite#[.{fingerprint=wg91j307gj}]!.pdb.gz",
+      "RelativePath": "_framework/BojanGrujicSite#[.{fingerprint=8ye8h50pi1}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5239,8 +5239,8 @@
       "RelatedAsset": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ezyftomjhh",
-      "Integrity": "2huhOAfmXpYK16GSPe3sZK/dTFrIwI7Bur+/AbiR8NA=",
+      "Fingerprint": "ktx49j2rr8",
+      "Integrity": "ODm+F6s31MV8IqlGQOPr62ExAgH4eq99gWo91S4CCbc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.pdb"
@@ -5813,7 +5813,7 @@
       "OriginalItemSpec": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.Xml.Linq.wasm"
     },
     {
-      "Identity": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/a5q8kj35q1-p8plfr70nx.gz",
+      "Identity": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/a5q8kj35q1-jfc4xocsu1.gz",
       "SourceId": "BojanGrujicSite",
       "SourceType": "Computed",
       "ContentRoot": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/",
@@ -5827,8 +5827,8 @@
       "RelatedAsset": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5j1twvd1jn",
-      "Integrity": "/0aMjvBqvYCF8FAeI0IucAA2FjtfVMZYkUBT4uMmcpM=",
+      "Fingerprint": "h6x2lagsj7",
+      "Integrity": "ebEFmn+cYkUHB17ZVlS+kl3DLGpIfvKKjLxBabex2dA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -7829,12 +7829,12 @@
       "OriginalItemSpec": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/System.IO.IsolatedStorage.wasm"
     },
     {
-      "Identity": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/notddw4vtc-cw7dcb2xcw.gz",
+      "Identity": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/notddw4vtc-wd5k288uqv.gz",
       "SourceId": "BojanGrujicSite",
       "SourceType": "Discovered",
       "ContentRoot": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "404#[.{fingerprint=cw7dcb2xcw}]?.html.gz",
+      "RelativePath": "404#[.{fingerprint=wd5k288uqv}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7843,8 +7843,8 @@
       "RelatedAsset": "/home/bojan/Boki/BojanGrujicSite/wwwroot/404.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "v5ca6v8fyt",
-      "Integrity": "Ez7/qPF3QzdHNNpl/jch+uoNSQJx+xrjqzEOQhlsClY=",
+      "Fingerprint": "9cx0uklwzj",
+      "Integrity": "N1lmuuxtvtjMmd/qbXclJ1cIKxl4rNZTKkLRaw94dfM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/bojan/Boki/BojanGrujicSite/wwwroot/404.html"
@@ -9691,8 +9691,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cw7dcb2xcw",
-      "Integrity": "PGECf0bA+KIXFo9ox/f5MFVyaEegBBaM506nZkPXpFo=",
+      "Fingerprint": "wd5k288uqv",
+      "Integrity": "vEVP+AEw/KaXTNKjeBDc83UaR1InMFm+1USsUiJRCDQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/404.html"
@@ -10747,11 +10747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CZ4TZclepl9zTpI9h/nrlwXL+IG/EmLoiK/tFDU1K/4=\""
+          "Value": "\"EQe65/T3OYf9W5HWHLLyvC3phqzME4URFQn/Ec3UqbM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:24 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10761,18 +10761,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CZ4TZclepl9zTpI9h/nrlwXL+IG/EmLoiK/tFDU1K/4="
+          "Value": "sha256-EQe65/T3OYf9W5HWHLLyvC3phqzME4URFQn/Ec3UqbM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/a5q8kj35q1-p8plfr70nx.gz",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/a5q8kj35q1-jfc4xocsu1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081333876"
+          "Quality": "0.000081320647"
         }
       ],
       "ResponseHeaders": [
@@ -10782,15 +10782,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12294"
+          "Value": "12296"
         },
         {
           "Name": "ETag",
-          "Value": "\"/0aMjvBqvYCF8FAeI0IucAA2FjtfVMZYkUBT4uMmcpM=\""
+          "Value": "\"ebEFmn+cYkUHB17ZVlS+kl3DLGpIfvKKjLxBabex2dA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10810,19 +10810,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CZ4TZclepl9zTpI9h/nrlwXL+IG/EmLoiK/tFDU1K/4=\""
+          "Value": "W/\"EQe65/T3OYf9W5HWHLLyvC3phqzME4URFQn/Ec3UqbM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CZ4TZclepl9zTpI9h/nrlwXL+IG/EmLoiK/tFDU1K/4="
+          "Value": "sha256-EQe65/T3OYf9W5HWHLLyvC3phqzME4URFQn/Ec3UqbM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/a5q8kj35q1-p8plfr70nx.gz",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/a5q8kj35q1-jfc4xocsu1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10831,7 +10831,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12294"
+          "Value": "12296"
         },
         {
           "Name": "Content-Type",
@@ -10839,11 +10839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/0aMjvBqvYCF8FAeI0IucAA2FjtfVMZYkUBT4uMmcpM=\""
+          "Value": "\"ebEFmn+cYkUHB17ZVlS+kl3DLGpIfvKKjLxBabex2dA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10861,7 +10861,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/0aMjvBqvYCF8FAeI0IucAA2FjtfVMZYkUBT4uMmcpM="
+          "Value": "sha256-ebEFmn+cYkUHB17ZVlS+kl3DLGpIfvKKjLxBabex2dA="
         }
       ]
     },
@@ -11003,144 +11003,7 @@
       ]
     },
     {
-      "Route": "_framework/BojanGrujicSite.pdb",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23128"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MIX3FAmvLfZCWc/lfY5HAWhM9HbWAvc6H6mruoOc8/c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MIX3FAmvLfZCWc/lfY5HAWhM9HbWAvc6H6mruoOc8/c="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BojanGrujicSite.pdb",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-wg91j307gj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000059087686"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16923"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2huhOAfmXpYK16GSPe3sZK/dTFrIwI7Bur+/AbiR8NA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"MIX3FAmvLfZCWc/lfY5HAWhM9HbWAvc6H6mruoOc8/c=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MIX3FAmvLfZCWc/lfY5HAWhM9HbWAvc6H6mruoOc8/c="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BojanGrujicSite.pdb.gz",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-wg91j307gj.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16923"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2huhOAfmXpYK16GSPe3sZK/dTFrIwI7Bur+/AbiR8NA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2huhOAfmXpYK16GSPe3sZK/dTFrIwI7Bur+/AbiR8NA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BojanGrujicSite.t0754qkvxg.wasm",
+      "Route": "_framework/BojanGrujicSite.5pim165vmo.wasm",
       "AssetFile": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11158,11 +11021,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zd7WUhmAsxNipL8HSTv04/dQMDf31CHfUBnOBV+gWMA=\""
+          "Value": "\"126b0WjTNJaP8iMmJB06klSe9qcL6PhwQLf/76XZRR8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:23 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11172,7 +11035,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t0754qkvxg"
+          "Value": "5pim165vmo"
         },
         {
           "Name": "label",
@@ -11180,18 +11043,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zd7WUhmAsxNipL8HSTv04/dQMDf31CHfUBnOBV+gWMA="
+          "Value": "sha256-126b0WjTNJaP8iMmJB06klSe9qcL6PhwQLf/76XZRR8="
         }
       ]
     },
     {
-      "Route": "_framework/BojanGrujicSite.t0754qkvxg.wasm",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-t0754qkvxg.gz",
+      "Route": "_framework/BojanGrujicSite.5pim165vmo.wasm",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-5pim165vmo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000123426314"
+          "Quality": "0.000123441550"
         }
       ],
       "ResponseHeaders": [
@@ -11201,15 +11064,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8101"
+          "Value": "8100"
         },
         {
           "Name": "ETag",
-          "Value": "\"D84j0qTRiUnVhDcvAob2OFUlLzHHBrRlxxkg0Tom8vk=\""
+          "Value": "\"b6KbRCnbVGVy8gFIFMYFRLe7rv4hd6cVkXqZzhMheNM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:24 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11229,13 +11092,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zd7WUhmAsxNipL8HSTv04/dQMDf31CHfUBnOBV+gWMA=\""
+          "Value": "W/\"126b0WjTNJaP8iMmJB06klSe9qcL6PhwQLf/76XZRR8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t0754qkvxg"
+          "Value": "5pim165vmo"
         },
         {
           "Name": "label",
@@ -11243,13 +11106,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zd7WUhmAsxNipL8HSTv04/dQMDf31CHfUBnOBV+gWMA="
+          "Value": "sha256-126b0WjTNJaP8iMmJB06klSe9qcL6PhwQLf/76XZRR8="
         }
       ]
     },
     {
-      "Route": "_framework/BojanGrujicSite.t0754qkvxg.wasm.gz",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-t0754qkvxg.gz",
+      "Route": "_framework/BojanGrujicSite.5pim165vmo.wasm.gz",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-5pim165vmo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11258,7 +11121,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8101"
+          "Value": "8100"
         },
         {
           "Name": "Content-Type",
@@ -11266,11 +11129,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"D84j0qTRiUnVhDcvAob2OFUlLzHHBrRlxxkg0Tom8vk=\""
+          "Value": "\"b6KbRCnbVGVy8gFIFMYFRLe7rv4hd6cVkXqZzhMheNM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:24 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11288,7 +11151,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t0754qkvxg"
+          "Value": "5pim165vmo"
         },
         {
           "Name": "label",
@@ -11296,7 +11159,305 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-D84j0qTRiUnVhDcvAob2OFUlLzHHBrRlxxkg0Tom8vk="
+          "Value": "sha256-b6KbRCnbVGVy8gFIFMYFRLe7rv4hd6cVkXqZzhMheNM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BojanGrujicSite.8ye8h50pi1.pdb",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UN1WH+qphXDi81SzFLPP147MJYD0s6K3Z6kq278ID4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 21:05:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ye8h50pi1"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BojanGrujicSite.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UN1WH+qphXDi81SzFLPP147MJYD0s6K3Z6kq278ID4c="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BojanGrujicSite.8ye8h50pi1.pdb",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-8ye8h50pi1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000059084195"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16924"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ODm+F6s31MV8IqlGQOPr62ExAgH4eq99gWo91S4CCbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 21:05:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UN1WH+qphXDi81SzFLPP147MJYD0s6K3Z6kq278ID4c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ye8h50pi1"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BojanGrujicSite.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UN1WH+qphXDi81SzFLPP147MJYD0s6K3Z6kq278ID4c="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BojanGrujicSite.8ye8h50pi1.pdb.gz",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-8ye8h50pi1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ODm+F6s31MV8IqlGQOPr62ExAgH4eq99gWo91S4CCbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 21:05:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ye8h50pi1"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BojanGrujicSite.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ODm+F6s31MV8IqlGQOPr62ExAgH4eq99gWo91S4CCbc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BojanGrujicSite.pdb",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UN1WH+qphXDi81SzFLPP147MJYD0s6K3Z6kq278ID4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 21:05:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UN1WH+qphXDi81SzFLPP147MJYD0s6K3Z6kq278ID4c="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BojanGrujicSite.pdb",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-8ye8h50pi1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000059084195"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16924"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ODm+F6s31MV8IqlGQOPr62ExAgH4eq99gWo91S4CCbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 21:05:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UN1WH+qphXDi81SzFLPP147MJYD0s6K3Z6kq278ID4c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UN1WH+qphXDi81SzFLPP147MJYD0s6K3Z6kq278ID4c="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BojanGrujicSite.pdb.gz",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-8ye8h50pi1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ODm+F6s31MV8IqlGQOPr62ExAgH4eq99gWo91S4CCbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 21:05:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ODm+F6s31MV8IqlGQOPr62ExAgH4eq99gWo91S4CCbc="
         }
       ]
     },
@@ -11319,11 +11480,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zd7WUhmAsxNipL8HSTv04/dQMDf31CHfUBnOBV+gWMA=\""
+          "Value": "\"126b0WjTNJaP8iMmJB06klSe9qcL6PhwQLf/76XZRR8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:23 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11333,18 +11494,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zd7WUhmAsxNipL8HSTv04/dQMDf31CHfUBnOBV+gWMA="
+          "Value": "sha256-126b0WjTNJaP8iMmJB06klSe9qcL6PhwQLf/76XZRR8="
         }
       ]
     },
     {
       "Route": "_framework/BojanGrujicSite.wasm",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-t0754qkvxg.gz",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-5pim165vmo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000123426314"
+          "Quality": "0.000123441550"
         }
       ],
       "ResponseHeaders": [
@@ -11354,15 +11515,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8101"
+          "Value": "8100"
         },
         {
           "Name": "ETag",
-          "Value": "\"D84j0qTRiUnVhDcvAob2OFUlLzHHBrRlxxkg0Tom8vk=\""
+          "Value": "\"b6KbRCnbVGVy8gFIFMYFRLe7rv4hd6cVkXqZzhMheNM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:24 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11382,19 +11543,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zd7WUhmAsxNipL8HSTv04/dQMDf31CHfUBnOBV+gWMA=\""
+          "Value": "W/\"126b0WjTNJaP8iMmJB06klSe9qcL6PhwQLf/76XZRR8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zd7WUhmAsxNipL8HSTv04/dQMDf31CHfUBnOBV+gWMA="
+          "Value": "sha256-126b0WjTNJaP8iMmJB06klSe9qcL6PhwQLf/76XZRR8="
         }
       ]
     },
     {
       "Route": "_framework/BojanGrujicSite.wasm.gz",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-t0754qkvxg.gz",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/0c43zh0qb6-5pim165vmo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11403,7 +11564,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8101"
+          "Value": "8100"
         },
         {
           "Name": "Content-Type",
@@ -11411,11 +11572,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"D84j0qTRiUnVhDcvAob2OFUlLzHHBrRlxxkg0Tom8vk=\""
+          "Value": "\"b6KbRCnbVGVy8gFIFMYFRLe7rv4hd6cVkXqZzhMheNM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:24 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11433,168 +11594,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-D84j0qTRiUnVhDcvAob2OFUlLzHHBrRlxxkg0Tom8vk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BojanGrujicSite.wg91j307gj.pdb",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/bin/Debug/net9.0/wwwroot/_framework/BojanGrujicSite.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23128"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MIX3FAmvLfZCWc/lfY5HAWhM9HbWAvc6H6mruoOc8/c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wg91j307gj"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BojanGrujicSite.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MIX3FAmvLfZCWc/lfY5HAWhM9HbWAvc6H6mruoOc8/c="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BojanGrujicSite.wg91j307gj.pdb",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-wg91j307gj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000059087686"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16923"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2huhOAfmXpYK16GSPe3sZK/dTFrIwI7Bur+/AbiR8NA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"MIX3FAmvLfZCWc/lfY5HAWhM9HbWAvc6H6mruoOc8/c=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wg91j307gj"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BojanGrujicSite.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MIX3FAmvLfZCWc/lfY5HAWhM9HbWAvc6H6mruoOc8/c="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BojanGrujicSite.wg91j307gj.pdb.gz",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/7bd8u03gwh-wg91j307gj.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16923"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2huhOAfmXpYK16GSPe3sZK/dTFrIwI7Bur+/AbiR8NA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:49:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wg91j307gj"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BojanGrujicSite.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2huhOAfmXpYK16GSPe3sZK/dTFrIwI7Bur+/AbiR8NA="
+          "Value": "sha256-b6KbRCnbVGVy8gFIFMYFRLe7rv4hd6cVkXqZzhMheNM="
         }
       ]
     },
@@ -71199,13 +71199,13 @@
       ]
     },
     {
-      "Route": "404.cw7dcb2xcw.html",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/notddw4vtc-cw7dcb2xcw.gz",
+      "Route": "404.html",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/notddw4vtc-wd5k288uqv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002123142251"
+          "Quality": "0.002100840336"
         }
       ],
       "ResponseHeaders": [
@@ -71215,19 +71215,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "470"
+          "Value": "475"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ez7/qPF3QzdHNNpl/jch+uoNSQJx+xrjqzEOQhlsClY=\""
+          "Value": "\"N1lmuuxtvtjMmd/qbXclJ1cIKxl4rNZTKkLRaw94dfM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 23:09:33 GMT"
+          "Value": "Fri, 31 Oct 2025 21:00:36 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -71243,26 +71243,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PGECf0bA+KIXFo9ox/f5MFVyaEegBBaM506nZkPXpFo=\""
+          "Value": "W/\"vEVP+AEw/KaXTNKjeBDc83UaR1InMFm+1USsUiJRCDQ=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "cw7dcb2xcw"
-        },
-        {
-          "Name": "label",
-          "Value": "404.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-PGECf0bA+KIXFo9ox/f5MFVyaEegBBaM506nZkPXpFo="
+          "Value": "sha256-vEVP+AEw/KaXTNKjeBDc83UaR1InMFm+1USsUiJRCDQ="
         }
       ]
     },
     {
-      "Route": "404.cw7dcb2xcw.html",
+      "Route": "404.html",
       "AssetFile": "/home/bojan/Boki/BojanGrujicSite/wwwroot/404.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71272,7 +71264,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "953"
+          "Value": "960"
         },
         {
           "Name": "Content-Type",
@@ -71280,11 +71272,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PGECf0bA+KIXFo9ox/f5MFVyaEegBBaM506nZkPXpFo=\""
+          "Value": "\"vEVP+AEw/KaXTNKjeBDc83UaR1InMFm+1USsUiJRCDQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 23:09:33 GMT"
+          "Value": "Fri, 31 Oct 2025 21:00:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vEVP+AEw/KaXTNKjeBDc83UaR1InMFm+1USsUiJRCDQ="
+        }
+      ]
+    },
+    {
+      "Route": "404.html.gz",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/notddw4vtc-wd5k288uqv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N1lmuuxtvtjMmd/qbXclJ1cIKxl4rNZTKkLRaw94dfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 21:00:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N1lmuuxtvtjMmd/qbXclJ1cIKxl4rNZTKkLRaw94dfM="
+        }
+      ]
+    },
+    {
+      "Route": "404.wd5k288uqv.html",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/notddw4vtc-wd5k288uqv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002100840336"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "475"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N1lmuuxtvtjMmd/qbXclJ1cIKxl4rNZTKkLRaw94dfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 21:00:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vEVP+AEw/KaXTNKjeBDc83UaR1InMFm+1USsUiJRCDQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wd5k288uqv"
+        },
+        {
+          "Name": "label",
+          "Value": "404.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vEVP+AEw/KaXTNKjeBDc83UaR1InMFm+1USsUiJRCDQ="
+        }
+      ]
+    },
+    {
+      "Route": "404.wd5k288uqv.html",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/wwwroot/404.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vEVP+AEw/KaXTNKjeBDc83UaR1InMFm+1USsUiJRCDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 21:00:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71294,7 +71431,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cw7dcb2xcw"
+          "Value": "wd5k288uqv"
         },
         {
           "Name": "label",
@@ -71302,13 +71439,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PGECf0bA+KIXFo9ox/f5MFVyaEegBBaM506nZkPXpFo="
+          "Value": "sha256-vEVP+AEw/KaXTNKjeBDc83UaR1InMFm+1USsUiJRCDQ="
         }
       ]
     },
     {
-      "Route": "404.cw7dcb2xcw.html.gz",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/notddw4vtc-cw7dcb2xcw.gz",
+      "Route": "404.wd5k288uqv.html.gz",
+      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/notddw4vtc-wd5k288uqv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71317,7 +71454,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "470"
+          "Value": "475"
         },
         {
           "Name": "Content-Type",
@@ -71325,11 +71462,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ez7/qPF3QzdHNNpl/jch+uoNSQJx+xrjqzEOQhlsClY=\""
+          "Value": "\"N1lmuuxtvtjMmd/qbXclJ1cIKxl4rNZTKkLRaw94dfM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 23:09:33 GMT"
+          "Value": "Fri, 31 Oct 2025 21:00:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71347,7 +71484,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cw7dcb2xcw"
+          "Value": "wd5k288uqv"
         },
         {
           "Name": "label",
@@ -71355,144 +71492,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ez7/qPF3QzdHNNpl/jch+uoNSQJx+xrjqzEOQhlsClY="
-        }
-      ]
-    },
-    {
-      "Route": "404.html",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/notddw4vtc-cw7dcb2xcw.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002123142251"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "470"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ez7/qPF3QzdHNNpl/jch+uoNSQJx+xrjqzEOQhlsClY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 23:09:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PGECf0bA+KIXFo9ox/f5MFVyaEegBBaM506nZkPXpFo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PGECf0bA+KIXFo9ox/f5MFVyaEegBBaM506nZkPXpFo="
-        }
-      ]
-    },
-    {
-      "Route": "404.html",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/wwwroot/404.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "953"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PGECf0bA+KIXFo9ox/f5MFVyaEegBBaM506nZkPXpFo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 23:09:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PGECf0bA+KIXFo9ox/f5MFVyaEegBBaM506nZkPXpFo="
-        }
-      ]
-    },
-    {
-      "Route": "404.html.gz",
-      "AssetFile": "/home/bojan/Boki/BojanGrujicSite/obj/Debug/net9.0/compressed/notddw4vtc-cw7dcb2xcw.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "470"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ez7/qPF3QzdHNNpl/jch+uoNSQJx+xrjqzEOQhlsClY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 23:09:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ez7/qPF3QzdHNNpl/jch+uoNSQJx+xrjqzEOQhlsClY="
+          "Value": "sha256-N1lmuuxtvtjMmd/qbXclJ1cIKxl4rNZTKkLRaw94dfM="
         }
       ]
     },
@@ -71521,7 +71521,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71582,7 +71582,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71627,7 +71627,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71682,7 +71682,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71743,7 +71743,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71788,7 +71788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71843,7 +71843,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71896,7 +71896,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71933,7 +71933,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71980,7 +71980,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72033,7 +72033,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72070,7 +72070,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 20:47:15 GMT"
+          "Value": "Fri, 31 Oct 2025 20:59:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72579,7 +72579,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 19:59:09 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72640,7 +72640,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 19:59:09 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72685,7 +72685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 19:59:09 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72740,7 +72740,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 19:59:09 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72793,7 +72793,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 19:59:09 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72830,7 +72830,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 31 Oct 2025 19:59:09 GMT"
+          "Value": "Fri, 31 Oct 2025 21:05:47 GMT"
         },
         {
           "Name": "Cache-Control",
