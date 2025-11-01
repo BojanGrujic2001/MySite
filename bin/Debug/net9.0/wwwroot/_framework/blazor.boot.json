@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BojanGrujicSite",
   "resources": {
-    "hash": "sha256-EmjoPiyBxefkACFo+aJdKPsd3XwRrrmxoQ4AW+/CIp4=",
+    "hash": "sha256-UZZWuIB27aGh8v1AmiYuosDiGO0iWyop5heezcqa9fo=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.z6jo10m0rd.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.65wbz7t8mt.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "BojanGrujicSite.5pim165vmo.wasm": "BojanGrujicSite.wasm",
-      "BojanGrujicSite.8ye8h50pi1.pdb": "BojanGrujicSite.pdb"
+      "BojanGrujicSite.w1hhk6552i.wasm": "BojanGrujicSite.wasm",
+      "BojanGrujicSite.jlefnjrtoe.pdb": "BojanGrujicSite.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.9ih887ebfz.js": "sha256-oS7IRiQoVt9ThQ7Y2UM3XoeY0JqPD02cg9IvRdufn2w="
@@ -412,10 +412,10 @@
       "WindowsBase.vy2l5u79y6.wasm": "sha256-ufB9Mo5joMyUs3DzXWWBFFIZNEVrt6h9N5stYB6Oln4=",
       "mscorlib.xd6mv31d55.wasm": "sha256-1YSLR2eZt3ceALFV//vZUF2AloxVil3VlrW1zZYPSEI=",
       "netstandard.kaml52uspo.wasm": "sha256-HLEwBpLfzKw2/zGSVzHzFJxznCkt/WIjahrziiMrOpA=",
-      "BojanGrujicSite.5pim165vmo.wasm": "sha256-126b0WjTNJaP8iMmJB06klSe9qcL6PhwQLf/76XZRR8="
+      "BojanGrujicSite.w1hhk6552i.wasm": "sha256-bJO2+Pns2QKV0RTSI2iY2qk5b5bbMIEBYHQiABELOuU="
     },
     "pdb": {
-      "BojanGrujicSite.8ye8h50pi1.pdb": "sha256-UN1WH+qphXDi81SzFLPP147MJYD0s6K3Z6kq278ID4c="
+      "BojanGrujicSite.jlefnjrtoe.pdb": "sha256-p4rm7uzYA19hSlPe/Sa0KPYGN11WP4vNlvfI0RNtzRY="
     }
   },
   "cacheBootResources": true,

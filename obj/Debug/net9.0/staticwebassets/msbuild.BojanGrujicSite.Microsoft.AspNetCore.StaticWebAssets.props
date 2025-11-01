@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wd5k288uqv</Fingerprint>
-      <Integrity>vEVP+AEw/KaXTNKjeBDc83UaR1InMFm+1USsUiJRCDQ=</Integrity>
+      <Fingerprint>ubj8bizvod</Fingerprint>
+      <Integrity>JonL62MEb0S9WcBdkSZvu9sCjNTutSL233z/M3bzXyE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\404.html'))</OriginalItemSpec>
@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>a60imxnaco</Fingerprint>
-      <Integrity>YrvEIQdSnqkZZ0qai2a5vgbv41sp4BRntsL1jz6Eq9M=</Integrity>
+      <Fingerprint>dgygd3i1uz</Fingerprint>
+      <Integrity>bYsgidSawdg208ikfJgCTnmkzip7c/vPyX0W+tEy1ak=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BojanGrujicSite.styles.css'))</OriginalItemSpec>
